@@ -23,6 +23,22 @@
                     "quantity" : "8-10 Personnes",
                     "image" : "./imgs/charlottefraise.png",
                     "monthselect" : true
+                },
+                {
+                    "id": 4,
+                    "title" : "Charlotte aux fraises",
+                    "description" : "Quoi de mieux qu'une bonne charlotte pour des fortes charleurs ?",
+                    "quantity" : "8-10 Personnes",
+                    "image" : "./imgs/charlottefraise.png",
+                    "monthselect" : true
+                },
+                {
+                    "id": 5,
+                    "title" : "Charlotte aux fraises",
+                    "description" : "Quoi de mieux qu'une bonne charlotte pour des fortes charleurs ?",
+                    "quantity" : "8-10 Personnes",
+                    "image" : "./imgs/charlottefraise.png",
+                    "monthselect" : true
                 }
             ]
 }
