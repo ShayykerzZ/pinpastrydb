@@ -1,26 +1,28 @@
-[
-    {   
-        "id": 1,
-        "title" : "Tarte aux fraises",
-        "description" : "Une délicieuse tarte aux fraises pour le bonheur de vos papilles.",
-        "quantity" : "8 Personnes",
-        "image" : "./imgs/tartefraise.png",
-        "monthselect" : true
-    },  
-    {
-        "id": 2,
-        "title" : "Banana Bread",
-        "description" : "Un cake à la banane moelleux et croustillant, ca donne envie !",
-        "quantity" : "8 Personnes",
-        "image" : "./imgs/bananabread.png",
-        "monthselect" : false
-    },  
-    {
-        "id": 3,
-        "title" : "Charlotte aux fraises",
-        "description" : "Quoi de mieux qu'une bonne charlotte pour des fortes charleurs ?",
-        "quantity" : "8-10 Personnes",
-        "image" : "./imgs/charlottefraise.png",
-        "monthselect" : true
-    }
-]
+{
+    "pastries" : [
+                {   
+                    "id": 1,
+                    "title" : "Tarte aux fraises",
+                    "description" : "Une délicieuse tarte aux fraises pour le bonheur de vos papilles.",
+                    "quantity" : "8 Personnes",
+                    "image" : "./imgs/tartefraise.png",
+                    "monthselect" : true
+                },  
+                {
+                    "id": 2,
+                    "title" : "Banana Bread",
+                    "description" : "Un cake à la banane moelleux et croustillant, ca donne envie !",
+                    "quantity" : "8 Personnes",
+                    "image" : "./imgs/bananabread.png",
+                    "monthselect" : false
+                },  
+                {
+                    "id": 3,
+                    "title" : "Charlotte aux fraises",
+                    "description" : "Quoi de mieux qu'une bonne charlotte pour des fortes charleurs ?",
+                    "quantity" : "8-10 Personnes",
+                    "image" : "./imgs/charlottefraise.png",
+                    "monthselect" : true
+                }
+            ]
+}
